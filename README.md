@@ -5,6 +5,7 @@ Large Language Models (LLMs) have revolutionized the modern society greatly with
 
 ## Experiments Results
 Socratic models-ChatGLM on (1) Single command multi-step task (2) Continuous Combination Multiple Tasks. 
+
 Experimental video results can refer to:  https://pan.baidu.com/s/1NN0cT_HOJbAjjNaCrcE6Mw (key: zznp).
 
 ## The full version paper will be available on Arxiv soon. 
