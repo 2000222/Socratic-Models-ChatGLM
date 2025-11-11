@@ -8,5 +8,6 @@ Socratic models-ChatGLM on (1) Single Command Multi-step Task (2) Continuous Com
 
 Experimental video results can refer to:  https://pan.baidu.com/s/1NN0cT_HOJbAjjNaCrcE6Mw (key: zznp).
 
-## The full version paper will be available on Arxiv soon. 
+## The full version paper will be available for publication soon. 
+🎉 The full version paper has been accepted as Oral Presentation by 2025 IEEE ICCR at 🇯🇵 Kyoto.  
 
