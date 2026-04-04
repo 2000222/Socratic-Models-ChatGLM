@@ -8,8 +8,8 @@ Socratic models-ChatGLM on (1) Single Command Multi-step Task (2) Continuous Com
 
 Experimental video results can refer to:  https://pan.baidu.com/s/1NN0cT_HOJbAjjNaCrcE6Mw (key: zznp).
 
-## The full version paper will be available for publication soon. 
-🎉 The full version paper has been accepted as Oral Presentation by 2025 IEEE ICCR at 🇯🇵 Kyoto. 
+## The full version paper has been successfully published ! 
+🎉 The full version paper has been accepted as Oral Presentation and Publication by 2025 IEEE ICCR at 🇯🇵 Kyoto. Here is the IEEE Paper📑 Link: https://ieeexplore.ieee.org/abstract/document/11371765 .
 
 The Preprint paper can be referred to https://www.authorea.com/users/999003/articles/1359367-multi-modal-interactive-control-of-robotic-arm-based-on-offline-large-language-models .  
 
