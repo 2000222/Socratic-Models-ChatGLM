@@ -14,5 +14,5 @@ Experimental video results can refer to:  https://pan.baidu.com/s/1NN0cT_HOJbAjj
 🎊 Here is the full IEEE published Paper 📑 Link: https://ieeexplore.ieee.org/abstract/document/11371765 .
 
 
-The Preprint paper can be referred to https://www.authorea.com/users/999003/articles/1359367-multi-modal-interactive-control-of-robotic-arm-based-on-offline-large-language-models .  
+The Preprint paper can also be referred to https://www.authorea.com/users/999003/articles/1359367-multi-modal-interactive-control-of-robotic-arm-based-on-offline-large-language-models .  
 
